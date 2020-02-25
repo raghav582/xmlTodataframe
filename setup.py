@@ -15,7 +15,7 @@ setup(
   author = 'Raghav Sharma',
   author_email = 'raghavsharma582@gmail.com',
   url = 'https://github.com/raghav582/xmlTodataframe',
-  download_url = 'https://github.com/raghav582/xmlTodataframe/archive/0.2.tar.gz',
+  download_url = 'https://github.com/raghav582/xmlTodataframe/archive/0.3.tar.gz',
   keywords = ['xml', 'xmltocsv', 'csv'],
   install_requires=[
           'pandas'
