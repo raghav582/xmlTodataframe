@@ -9,7 +9,7 @@ from distutils.core import setup
 setup(
   name = 'xmlTodataframe',
   packages = ['xml2dataframe'],
-  version = '0.1',
+  version = '0.2',
   license='GPL-3.0-only',
   description = 'xmlTodataframe convert given xml file to csv file!',
   author = 'Raghav Sharma',
